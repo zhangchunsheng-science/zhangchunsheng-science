@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhangchunsheng-science.
-- 👀 I’m interested in software development and artificial intelligence.
-- 🌱 I’m currently learning go, python and php.
+- 👀 I’m interested in mathematics, software development and artificial intelligence.
+- 🌱 I’m currently learning c/c++, go, python and php.
 - 📫 My email is 1017295148@qq.com.
 
 <!---
